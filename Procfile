@@ -1,0 +1,1 @@
+web: java -jar jetty-runner.jar myapplication-1.0-SNAPSHOT.war
