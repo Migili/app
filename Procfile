@@ -1,1 +1,1 @@
-web: java -jar jetty-runner.jar myapplication-1.0-SNAPSHOT.war
+web: java -jar dependency/jetty-runner.jar target/myapplication-1.0-SNAPSHOT.war
